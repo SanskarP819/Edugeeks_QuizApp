@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718343643491",
+    "project_id": "edugeeksquiz8707",
+    "storage_bucket": "edugeeksquiz8707.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718343643491:android:e6f589ee1d59e1572c7356",
+        "android_client_info": {
+          "package_name": "com.example.edugeeksquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG56ML5HKE_WvXiE6CGbEZsS-2qaxUjYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
