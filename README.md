@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📚 EduGeeks Quiz App
-### Android Engineer Assignment Submission
+### Android Developer Intern Assignment Submission
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
@@ -9,7 +9,7 @@
 ![Room](https://img.shields.io/badge/Room-Offline_Support-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Submitted by:** Sanskar  
-**Role:** Android App Engineer  
+**Role:** Android Developer Intern  
 **Company:** EduGeeks
 
 </div>
@@ -23,8 +23,8 @@
 | 🔐 Login / Sign Up | 🏠 Category Home | ❓ Quiz Screen |
 | ⏱️ Timer + MCQ | ✅ Answer Reveal | 🏆 Result Screen |
 
-> 📺 **[Watch Demo Video](./demo/demo_video_link.md)**  
-> 📦 **[Download APK](./apk/app-debug.apk)**
+> 📺 **[Watch Demo Video](https://www.loom.com/share/3c5667f308a0492abadca214494f7379)**  
+> 📦 **[Download APK](https://drive.google.com/file/d/1XS7FPSWR6CefLf2W_XgwxhYXgEqpIceH/view?usp=sharing)**
 
 ---
 
@@ -195,6 +195,6 @@ Each screen is a proper `composable(route)` — back stack is managed by NavCont
 
 <div align="center">
 
-Made with ❤️ by **Sanskar** for EduGeeks Android Engineer Assignment
+Made with ❤️ by **Sanskar** for EduGeeks Android Developer Intern Assignment
 
 </div>
